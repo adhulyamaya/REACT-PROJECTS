@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+.count-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.count-text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.count-button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 0 5px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.count-button:hover {
+  background-color: #0056b3;
+}
+
+
+
+.count-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px; 
+  width: 80%; 
+  height: 300px; 
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px auto; 
+}
+
+.count-container {
+  text-align: center;
+}
+
+.count-text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.count-button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 0 5px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.count-button:hover {
+  background-color: #0056b3;
+}
